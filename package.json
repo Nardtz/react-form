@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nardtz.github.io/react-form",
+  "homepage": "https://github.com/Nardtz/react-form.git",
   "dependencies": {
     "radium": "^0.25.0",
     "react": "^16.6.0",
